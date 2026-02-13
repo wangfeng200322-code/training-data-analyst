@@ -2,3 +2,4 @@ numpy>=1.18.1
 pandas>=0.25.3
 six>=1.14.0
 tensorflow>=2.1
+keras>=3.13.2 # not directly required, pinned by Snyk to avoid a vulnerability
